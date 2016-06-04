@@ -9,4 +9,4 @@
   * Assess information given by cluster data to interpret it in a meaningful way.
   
 ### General Descriptions
-  * Leveraged unsupervised learning techniques to to see if any similarities exist between customers, and how to best segment customers into distinct categories.
+  * Leveraged unsupervised learning techniques to see if any similarities exist between customers, and how to best segment customers into distinct categories.
