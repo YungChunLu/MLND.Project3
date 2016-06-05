@@ -10,3 +10,6 @@
   
 ### General Descriptions
   * Leveraged unsupervised learning techniques to see if any similarities exist between customers, and how to best segment customers into distinct categories.
+ 
+## License
+The content of this repository is licensed under [MIT License](https://github.com/ArthurLu/MLND.Project3/blob/master/LICENSE.txt)
