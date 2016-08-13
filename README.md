@@ -1,6 +1,6 @@
 #Machine Learning Nano Degree
 ## Explore the Clusters in a Dataset
-![alt text](https://github.com/ArthurLu/MLND.Project3/blob/master/Cover%20Picture.jpg "Project3 Cover Picture")
+![Project3 Cover Picture](https://github.com/ArthurLu/MLND.Project3/blob/master/Cover%20Picture.jpg "Project3 Cover Picture")
 
 ### Project Highlights
   * Applied preprocessing techniques such as feature scaling and outlier detection.
