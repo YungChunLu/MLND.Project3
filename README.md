@@ -1,5 +1,5 @@
 #Machine Learning Nano Degree
-## Explore the Clusters in a Dataset
+## Explore the Clusters in a Dataset, [See Notebook](http://nbviewer.jupyter.org/github/ArthurLu/MLND.Project3/blob/master/customer_segments.ipynb)
 ![Project3 Cover Picture](https://github.com/ArthurLu/MLND.Project3/blob/master/Cover%20Picture.jpg "Project3 Cover Picture")
 
 ### Project Highlights
